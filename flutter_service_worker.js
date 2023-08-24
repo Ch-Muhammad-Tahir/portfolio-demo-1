@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "f72904bbd8a17fe7783c2502a35f71f3",
-"assets/AssetManifest.json": "9e204e3fb4e5b7e3df99232b36007aff",
+const RESOURCES = {"assets/AssetManifest.bin": "8b103c5c09d0c399d3284c084be26326",
+"assets/AssetManifest.json": "abdcc6331f0d8b74faceb7092417fdd6",
 "assets/assets/fonts/Poppins-Bold.ttf": "08c20a487911694291bd8c5de41315ad",
 "assets/assets/fonts/Poppins-Medium.ttf": "bf59c687bc6d3a70204d3944082c5cc0",
 "assets/assets/fonts/Poppins-Regular.ttf": "093ee89be9ede30383f39a899c485a82",
@@ -16,6 +16,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "f72904bbd8a17fe7783c2502a35f71f3
 "assets/assets/icons/machine-learning.png": "d6c4c5165d26de770164833925186f1e",
 "assets/assets/icons/menu.png": "7777bd0a549e245607ebc0cad73cb093",
 "assets/assets/icons/mobile-development.png": "0764a6445b112ed0d6291ace9d082344",
+"assets/assets/images/1%252056.png": "58a4aa845fca5bfe88ab5724c03f395b",
+"assets/assets/images/1_CsJ05WEGfunYMLGfsT2sXA.gif": "0ac274e561067ee9d830b19fb13dac5c",
+"assets/assets/images/3a3b8085-c4dd-4d66-8cc4-44ecf28bce0a-cover.png": "fcaef15ac1fe9cfeaaa9e4b8b455cc43",
+"assets/assets/images/e555e354-3844-423d-a4cf-1461cf120b15-cover.png": "75462f831c1f4f1e40348dd55b6d0247",
+"assets/assets/images/Figma%2520Thumbnail.png": "c9b4536b18593d3e2943948700bea102",
 "assets/assets/images/file%2520cover%2520-%25206.png": "dc20e4219190da0cbc2bc0c71da095cd",
 "assets/assets/images/IMG_1429.jpeg": "3fc83642b37738ef5642f9b35b350621",
 "assets/assets/images/Login%2520Page%2520UI%2520starter%2520kit%2520(Community).png": "ca610de4a8d984d36ae1605151a1dd38",
@@ -23,9 +28,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "f72904bbd8a17fe7783c2502a35f71f3
 "assets/assets/images/UMT_Logo.png": "cb981cb891b95cd7433686e65962a197",
 "assets/assets/images/vfairs-logo-landscape-gradient.png": "f67c011b6c1d7902e8c72871a6d182d8",
 "assets/FontManifest.json": "d5c53906b6d86d304b23aa61eec71815",
-"assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "a92bf26c07dcf7c6a5da3f4e607ff2f8",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/fonts/MaterialIcons-Regular.otf": "1c2ed013ea065cbadfe4d7028a0b223a",
+"assets/NOTICES": "3e0fb617620fe7f23f76b2c3349789b3",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "canvaskit/canvaskit.js": "76f7d822f42397160c5dfc69cbc9b2de",
 "canvaskit/canvaskit.wasm": "f48eaf57cada79163ec6dec7929486ea",
@@ -40,9 +45,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "f72904bbd8a17fe7783c2502a35f71f3
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "656ebd145cefa485208af59b0e9834dd",
-"/": "656ebd145cefa485208af59b0e9834dd",
-"main.dart.js": "98657a28575e6c0823b6c0fccdf5bea2",
+"index.html": "3dfaea9d1cf97eb6106ad5800bd49dbd",
+"/": "3dfaea9d1cf97eb6106ad5800bd49dbd",
+"main.dart.js": "ccc78fa90d2acb7cbbf35798acdbcef3",
 "manifest.json": "1daa337631cffb29094667c11136a302",
 "version.json": "55834794b62b31d0e2c24ae0892eec80"};
 // The application shell files that are downloaded before a service worker can
